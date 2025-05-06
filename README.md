@@ -3,8 +3,6 @@ Reverse Shell Simulation and Malware Analysis (Educational)
 🔐 Project Title:
 “Reverse Shell Simulation and Malware Analysis (Educational)”
 
-📄 Project Summary (1–2 Paragraphs):
-Explain the context like this:
 
 Built and analyzed a simulated reverse shell using Python to better understand how remote access malware operates in real-world environments. The project was executed in a fully isolated virtual lab using Kali Linux, where I:
 
