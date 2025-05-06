@@ -66,22 +66,22 @@ The goal is to understand how attackers operate — so we can stop them.
 ## 📸 Screenshots
 
 ### 🔁 Reverse Shell Python Code
-![Reverse Shell Code](screenshots/reverser%20shell%20code.png)
+![Reverse Shell Code](reverser%20shell%20code.png)
 
 ### 📟 Keylogger Output Example
-![Keylogger Output](screenshots/keylogger%20output.png)
+![Keylogger Output](keylogger%20output.png)
 
 ### ⌨️ Keylogger Source Code
-![Keylogger Code](screenshots/keylogger%20code.png)
+![Keylogger Code](keylogger%20code.png)
 
 ### 🔒 Obfuscation Code Block
-![Obfuscation Code](screenshots/obfuscation%20code.png)
+![Obfuscation Code](obfuscation%20code.png)
 
 ### 🔐 Base64 Encoded Command
-![Base64 Command](screenshots/Obfuscation.png)
+![Base64 Command](Obfuscation.png)
 
 ### 🎯 Attacker and Victim Terminals
-![Attacker and Victim](screenshots/Attacker%20and%20victim.png)
+![Attacker and Victim](Attacker%20and%20victim.png)
 
 **Next Steps / Improvements**
 ```md
